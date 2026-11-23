@@ -30,10 +30,19 @@ Regras: sem promessa de resultado ou prazo, sem prescrição individual de dieta
 
 ## Automação das respostas
 
-O conector **ChatGenius** está disponível para responder comentários e DMs do Instagram. **Não está ativado.** Antes de ligar:
-1. Preencher os dados acima.
-2. Você aprovar os textos da sequência.
-3. Testar com uma conta sua (`simulate_comment`) antes de ir ao ar.
+O **ChatGenius** (conta gratuita) já tinha 4 gatilhos de comentário criados em 23/11/2026 de manhã, antes desta conversa. Eu não os criei nem alterei.
+
+| Palavra | Estado em 23/11 | Texto fala de |
+|---|---|---|
+| PLANO | **ATIVO** | "Método TR 120", 180 dias, 120 vídeos |
+| BLACK | **ATIVO** | Black Friday, 30% de desconto, 10 vagas, até 30/11 |
+| CONSULTORIA | pausado | consultoria "TR Fitness Premium" |
+| EXECUCAO | pausado | "Método TR 120" |
+
+Pendências antes de manter ou ligar:
+1. Os textos usam "TR Fitness Premium" e "Método TR 120". A marca definida é **R2lcross | TR Premium**. Alinhar os nomes.
+2. Confirmar se a oferta de Black Friday (30%, 10 vagas) é real e se o preço R$ 85,88 corresponde ao Método TR 120.
+3. Testar com uma conta sua (`simulate_comment`) antes de ligar outros gatilhos.
 
 ## Controle de leads
 
