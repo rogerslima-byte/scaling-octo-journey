@@ -37,4 +37,6 @@ Publicar sozinho está **desativado**.
 ## Limitações conhecidas
 
 - O plano de teste do Windsor.ai dá só 30 dias de histórico. O Metricool guarda mais, mas a conta dele foi criada em 05/11/2026.
-- TikTok: o Metricool não retornou vídeos nos últimos 90 dias. Verificar se a conta está sincronizada.
+- TikTok: conectado no Windsor em 23/11/2026 (conector `tiktok_organic`, conta @rogers.r2lcross). O Metricool segue sem retornar vídeos; usar o Windsor como fonte principal.
+- TikTok em 23/11/2026: **138 seguidores, 113 vídeos, 1.820 curtidas no total, nenhum vídeo nos últimos 30 dias.** A conta está parada. Instagram (27 mil) e TikTok (138) são audiências muito diferentes, então o TikTok só vale a pena se houver plano de postar de forma constante.
+- Bio do TikTok promete "Elimine de 4 a 8 kgs em 30 dias" e cita "Metodologia Eu Magra". Isso contradiz a regra de não prometer resultado e pode violar as políticas da plataforma e do conselho profissional. **Recomendado trocar a bio**, na linha da bio do Instagram.
