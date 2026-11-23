@@ -4,7 +4,7 @@ Objetivo: transformar comentário e DM com palavra-chave em conversa de venda, s
 
 ## Dados que faltam (preencher antes de ativar qualquer resposta automática)
 
-- Preço e planos do TR Premium: ______
+- Preço do TR Premium: **R$ 85,88** (periodicidade a confirmar: mensal, trimestral ou outra). Não informar o valor nas mensagens automáticas até confirmar.
 - Link ou WhatsApp para fechamento: ______
 - O que está incluso (treino, nutrição, acompanhamento): ______
 - Prazo de resposta que você consegue cumprir: ______
