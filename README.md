@@ -1,4 +1,4 @@
-# Central de automações do Instagram — TR Fitness (@r2lcross_estudio)
+# Central de automações do Instagram — R2lcross (@r2lcross_estudio) | produto TR Premium
 
 Este repositório guarda os relatórios, o calendário de conteúdo, os roteiros e a fila de aprovação da página. As rotinas rodam como tarefas agendadas do Claude e **só preparam rascunhos**. Nada é publicado ou agendado sem a sua aprovação.
 

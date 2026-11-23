@@ -17,7 +17,8 @@ Personal trainer online: treino, nutrição e acompanhamento 100% online. Bio: "
 
 - Português do Brasil, tratamento por **você**. Evitar português de Portugal ("tu", "fechas", "vais") nas legendas.
 - Direta, prática, sem culpa e sem promessa de milagre.
-- Um nome de marca por vez. Hoje aparecem "consultoria TR", "TR Fitness", "TR Fitness Premium" e "R2lcross". **Decidir um só** e usar em todas as legendas.
+- **Perfil/marca: R2lcross.** **Produto: TR Premium** (consultoria de treino, nutrição e acompanhamento online). Usar só esses dois nomes. Não usar mais "consultoria TR", "TR Fitness" nem "TR Fitness Premium".
+- Assinatura padrão das legendas: "R2lcross | TR Premium: Treino | Nutrição | Acompanhamento".
 - Uma chamada para ação por post, sempre com a mesma palavra-chave (ex.: `CONSULTORIA`).
 
 ## Regras de segurança do conteúdo
