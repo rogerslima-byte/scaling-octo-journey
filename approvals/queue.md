@@ -12,6 +12,15 @@ Os arquivos de mídia (vídeo ou imagem) precisam ser fornecidos por você. O Me
 - [ ] 29/11, Reels: Prato pós-treino
 - [ ] 30/11, Stories: Caixinha de perguntas
 
+## Semana 2026-W49
+
+- [ ] 01/12, Reels: Stiff sentido só nas costas. Roteiro em `content/calendar/2026-W49.md`
+- [ ] 02/12, Carrossel: Monte seu treino da semana em 5 passos
+- [ ] 03/12, Reels: Sem tempo para treinar
+- [ ] 04/12, Stories: Enquete casa ou academia
+- [ ] 05/12, Reels: O erro do lanche da tarde
+- [ ] 06/12, Reels: Ponte de glúteo em casa
+
 ## Já agendados
 
 (nenhum)
